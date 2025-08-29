@@ -1,3 +1,4 @@
 flask
+pickle
 scikit-learn
-pandas
+gunicorn
